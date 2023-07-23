@@ -14,15 +14,13 @@ const Landing = () => {
           {/* info */}
           <div className="info">
             <h1>
-              loan approval <span>prediction</span>
+              Find a Job on <span>Jobster</span>
             </h1>
             <p>
-              LendWise is an AI-powered loan application approval prediction app
-              that uses machine learning algorithms to assess credit risk,
-              predict loan approval likelihood, and provide borrowers with
-              insights to improve their chances. With a user-friendly interface,
-              LendWise aims to provide a seamless experience for borrowers,
-              while also minimizing risk and increasing efficiency for lenders.
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+              Laudantium delectus quidem fugiat sequi accusamus necessitatibus
+              asperiores officiis, dolores nemo. Iusto enim laudantium
+              perspiciatis numquam perferendis qui aut est. Magni, dolore.
             </p>
             <Link to="/register" className="btn btn-hero">
               Login/Register
